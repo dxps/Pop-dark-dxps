@@ -18,3 +18,4 @@ What I did for having this _flavor_:
 The adjustements include:
 
 - Window close button is a simple one (I don't like that bright orange, that brightness looked like it is one of the most important elements).
+- Some of the radii were updated from 2px to 5px (see for example `-gtk-outline-radius: 5px;` at line 18 within `* {` CSS rule).
