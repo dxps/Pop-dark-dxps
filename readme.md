@@ -13,6 +13,14 @@ What I did for having this _flavor_:
 3. Have `gtk.css` file referring to the local (and customized) `gtk-dark.css`.
 4. Of course, `index.theme` has a slightly updated name to be able to select it (using Gnome Tweaks).
 
+The missing symbols were added to `gtk-3.0/assets` using (just one example):
+
+```shell
+.themes/Pop-dark-dxps/gtk-3.0
+❯ gresource extract gtk.gresource /org/pop-os/themes/Pop/3.20/assets/bullet-symbolic.png > assets/bullet-symbolic.png
+
+```
+
 ### Updates
 
 The adjustements include:
