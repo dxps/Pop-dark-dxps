@@ -1,0 +1,9 @@
+[X-GNOME-Metatheme]
+Name=Pop-dark-dxps
+Type=X-GNOME-Metatheme
+Comment=The Pop-dark GTK Theme (with small adjustments)
+Encoding=UTF-8
+GtkTheme=Pop-dark-dxps
+IconTheme=Pop
+CursorTheme=Breeze
+CursorSize=24
